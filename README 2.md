@@ -33,3 +33,7 @@ Load and run the example:
     | Previous Song  |    [Vol-]   |
     |   Volume Up    |    [n/a]    |
     |  Volume Down   |    [n/a]    |
+
+
+    make menuconfig
+    make flash monitor -j5
